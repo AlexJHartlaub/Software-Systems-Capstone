@@ -53,3 +53,14 @@ For next week i hope to begin an actual physical webpage or at least something o
  created a database in MySQL and rendered some data using PHP. created the registration and login page. 
  
  next week we hope to continue progress to have a working prototype by week 10
+ 
+ 
+ 2/26/2023 
+
+ Week 7 progress
+Moved team communication from a discord chat into a discord channel, created discord channel to organize our information and research for our project
+and available meeting times for our group. Base website is created with database add and removed functions as well as user account creation and authentication.
+Group talked about future ideas for our website and what we would like to have or to remove from the website.
+
+For next week we want to finish hard coding our map API for locating homeless shelters in your area or to be able to search by area.
+We'd also like to touch up the styling on the front end.
